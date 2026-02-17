@@ -44,13 +44,13 @@ Steps performed:
 ### Evidence
 
 **PDB Creation**  
-![PDB Creation](screenshots/pdb_creation.png)
+![PDB Creation](Screenshots/pdb_creation.png)
 
 **PDB Open State**  
-![PDB Open](screenshots/pdb_open.png)
+![PDB Open](Screenshots/pdb_open.png)
 
 **User Created Inside PDB**  
-![User Created](screenshots/user_created.png)
+![User Created](Screenshots/user_created.png)
 
 ---
 
@@ -72,10 +72,10 @@ Steps performed:
 ### Evidence
 
 **Temporary PDB Creation**  
-![Temp PDB Created](screenshots/temp_pdb_created.png)
+![Temp PDB Created](Screenshots/temp_pdb_created.png)
 
 **Temporary PDB Deletion**  
-![Temp PDB Deleted](screenshots/temp_pdb_deleted.png)
+![Temp PDB Deleted](Screenshots/temp_pdb_deleted.png)
 
 ---
 
@@ -92,11 +92,11 @@ Verification performed:
 ### Evidence
 
 **OEM Dashboard**  
-![OEM Dashboard](screenshots/oem_dashboard.png)
+![OEM Dashboard](Screenshots/oem_dashboard.png)
 
 ---
 
-## ⚠ Challenges Encountered
+## Challenges Encountered
 
 Problem: Invalid Container Name error during OEM login.
 
